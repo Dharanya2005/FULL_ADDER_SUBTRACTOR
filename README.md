@@ -37,6 +37,10 @@ Diff = A ⊕ B ⊕ Bin
 Borrow out = A'Bin + A'B + BBin
 
 **Truthtable**
+## FULL ADDER:
+![Screenshot 2024-04-04 102054](https://github.com/Dharanya2005/FULL_ADDER_SUBTRACTOR/assets/145742468/012e4ca9-a78c-42d7-a5fc-65fa47ee5f1b)
+## FULL SUBRACTOR:
+![Screenshot 2024-04-04 111811](https://github.com/Dharanya2005/FULL_ADDER_SUBTRACTOR/assets/145742468/5c3d5d64-ef80-4854-b3d7-b61c9534993c)
 
 **Procedure**
 
@@ -44,12 +48,29 @@ Write the detailed procedure here
 
 **Program:**
 
-/* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
+/* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. 
+Developed by:DHARANYA.N
+RegisterNumber:212223230044
 */
+## FULL ADDER:
+![Screenshot 2024-04-04 102238](https://github.com/Dharanya2005/FULL_ADDER_SUBTRACTOR/assets/145742468/d7149c8e-6bc2-4a4f-a8a7-5b463934edef)
+## FULL SUBRACTOR:
+![Screenshot 2024-04-04 113758](https://github.com/Dharanya2005/FULL_ADDER_SUBTRACTOR/assets/145742468/3b09b17a-6f81-411a-a252-bee1a75af6e2)
 
 **RTL Schematic**
+## FULL ADDER:
+![Screenshot 2024-04-04 094103](https://github.com/Dharanya2005/FULL_ADDER_SUBTRACTOR/assets/145742468/33937e74-f28a-41a7-b16a-093c21ba6db8)
+
+## FULL SUBRACTOR:
+![Screenshot 2024-04-04 113629](https://github.com/Dharanya2005/FULL_ADDER_SUBTRACTOR/assets/145742468/480d4aa1-2c25-44b4-8b5c-919dbcff3741)
+
 
 **Output Timing Waveform**
+## FULL ADDER:
+![Screenshot 2024-04-04 094653](https://github.com/Dharanya2005/FULL_ADDER_SUBTRACTOR/assets/145742468/2ce85ea4-fc53-4430-96ac-b310d820fdd1)
+
+## FULL SUBRACTOR:
+![Screenshot 2024-04-04 124522](https://github.com/Dharanya2005/FULL_ADDER_SUBTRACTOR/assets/145742468/b9a56b8d-dd75-45c1-83f0-c6d4fc8d6abc)
 
 **Result:**
 
